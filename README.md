@@ -54,9 +54,8 @@ If you find a bug or have a feature request, please open an issue.
 ---
 ## 🛠 Setup
 
-### 1️⃣ Clone the repo
-
 ```bash
+## Clone the repo
 git clone https://github.com/AbuZar-Ansarii/LangGraph-Chat-Bot.git
 cd echo-chatbot
 
@@ -64,7 +63,7 @@ cd echo-chatbot
 pip install -r requirements.txt
 
 ## Run the app
-streamlit run frontend_bot_ui.py
+streamlit run front_bot_ui.py
 
 ## 📦 Requirements
 streamlit
